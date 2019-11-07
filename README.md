@@ -1,0 +1,2 @@
+# automatiko
+GUI for PyAutoGUI
